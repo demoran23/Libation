@@ -24,7 +24,7 @@
   </ItemGroup>
   
   <ItemGroup>
-    <ProjectReference Include="..\..\Dinah.Core\Dinah.EntityFrameworkCore\Dinah.EntityFrameworkCore.csproj" />
+    <ProjectReference Include="..\Dinah.Core\Dinah.EntityFrameworkCore\Dinah.EntityFrameworkCore.csproj" />
     <ProjectReference Include="..\FileManager\FileManager.csproj" />
   </ItemGroup>
   

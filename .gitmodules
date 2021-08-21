@@ -7,3 +7,6 @@
 [submodule "AAXClean"]
 	path = AAXClean
 	url = https://github.com/rmcrackan/AAXClean.git
+[submodule "LuceneNet303r2"]
+	path = LuceneNet303r2
+	url = https://github.com/rmcrackan/LuceneNet303r2.git

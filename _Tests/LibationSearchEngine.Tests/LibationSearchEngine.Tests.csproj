@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Dinah.Core\_Tests\TestCommon\TestCommon.csproj" />
+    <ProjectReference Include="..\..\Dinah.Core\_Tests\TestCommon\TestCommon.csproj" />
     <ProjectReference Include="..\..\LibationSearchEngine\LibationSearchEngine.csproj" />
   </ItemGroup>
 

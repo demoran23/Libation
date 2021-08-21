@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\LuceneNet303r2\LuceneNet303r2\LuceneNet303r2.csproj" />
+    <ProjectReference Include="..\LuceneNet303r2\LuceneNet303r2\LuceneNet303r2.csproj" />
     <ProjectReference Include="..\DataLayer\DataLayer.csproj" />
     <ProjectReference Include="..\FileManager\FileManager.csproj" />
   </ItemGroup>

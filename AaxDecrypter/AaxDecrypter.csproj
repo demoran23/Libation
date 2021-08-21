@@ -5,8 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\AAXClean\AAXClean.csproj" />
-    <ProjectReference Include="..\..\Dinah.Core\Dinah.Core\Dinah.Core.csproj" />
+    <ProjectReference Include="..\AAXClean\AAXClean.csproj" />
+    <ProjectReference Include="..\Dinah.Core\Dinah.Core\Dinah.Core.csproj" />
   </ItemGroup>
 
 </Project>
