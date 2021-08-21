@@ -1,0 +1,9 @@
+[submodule "AudibleApi"]
+	path = AudibleApi
+	url = https://github.com/rmcrackan/AudibleApi.git
+[submodule "Dinah.Core"]
+	path = Dinah.Core
+	url = https://github.com/rmcrackan/Dinah.Core.git
+[submodule "AAXClean"]
+	path = AAXClean
+	url = https://github.com/rmcrackan/AAXClean.git
